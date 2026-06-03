@@ -78,12 +78,7 @@ This project demonstrates how Machine Learning can be used in education to predi
 
 ---
 
-## ⭐ How to Run
-```bash
-# Install dependencies
-pip install pandas numpy scikit-learn matplotlib
 
-# Run the notebook in Google Colab or Jupyter Notebook
 
 
 
