@@ -84,3 +84,5 @@ This project demonstrates how Machine Learning can be used in education to predi
 pip install pandas numpy scikit-learn matplotlib
 
 # Run the notebook in Google Colab or Jupyter Notebook
+<img width="800" height="628" alt="88" src="https://github.com/user-attachments/assets/37f20d88-6dfc-48ae-8934-f5cad063b860" />
+
